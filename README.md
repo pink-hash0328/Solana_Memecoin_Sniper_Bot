@@ -100,13 +100,4 @@ Update the following environment variables in your backend `.env` file:
 - `ORIGIN_URL=`: The frontend URL for allowing CORS.
 
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
-<p>
-  <a href="mailto:leobrandt0912@gmail.com" target="_blank">
-        <img alt="Email"
-        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-     <a href="https://x.com/web3batman" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://t.me/shinnyleo0912" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+
